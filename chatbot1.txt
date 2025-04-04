@@ -1,0 +1,137 @@
+
+A chatbot (chat robot) is a computer program designed to simulate a human conversation using natural language understanding (NLU). They can also be called intelligent virtual assistants. They work by analyzing and interpreting user inputs, such as text or voice commands, and respond with pre-programmed or learned responses. AI chatbots can be integrated into various communication channels, such as messaging apps, websites, or voice assistants, to enable customers to interact with businesses and organizations in a more natural and efficient way.
+
+
+
+Customer support automation with AI chatbots refers to the use of computer programs that can simulate human conversation to provide customer service. With the help of AI, machine learning, and natural language processing, chatbots can understand and respond to customer inquiries in a human-like manner.
+
+By automating frequently asked questions and handling conversational dialogue, chatbots can reduce the workload for contact center agents while improving response times for customers. More advanced chatbots can even guide live agents through complex support scenarios, leading to faster and more accurate resolutions. Overall, the use of AI chatbots for customer support can improve efficiency, reduce costs, and enhance the customer experience.
+
+
+
+The most common problems reported in contact centers are long wait times and poor customer service causing customer frustration and dissatisfaction. AI-powered chatbots for customer service are uniquely built to offer superior customer service experiences. These intelligent virtual assistants are available 24x7 and offer self-service automation that seamlessly remembers conversations across any channel.
+
+So would your customers use it? Nearly 80% of consumers say they would speak to a chatbot to avoid long wait times and most people already use them to interact with companies.
+
+Here’s some more statistics:
+
+62% of consumers would prefer to use a customer service bot rather than wait for human agents to answer their requests. (Forbes)
+74% of internet users prefer using chatbots when looking for answers to simple questions. (PSFK)
+65% of consumers feel comfortable handling an issue without a human agent. (Adweek)
+
+
+The differences between AI-powered intelligent virtual assistants (IVAs) and simple chatbots are profound. A simple chatbot converses with a customer using a rigid conversation structure, where if a consumer does not ask a question in a very specific way that the chatbot understands, the chatbot breaks.
+
+An AI-powered intelligent virtual assistant uses Machine Learning (ML) and Natural Language Processing (NLP) to truly understand the context of a customer’s request and is capable of providing more accurate and personalized responses. With the addition of Large Language Models (LLMs), an IVA can respond using a large database with little to no training.
+
+
+
+Simple chatbots can be used for repetitive contact center agent support tasks such as answering FAQ-style questions, troubleshooting customer issues, and providing account or order information.  Intelligent virtual assistants can handle these mundane tasks while also performing complex efforts like scheduling appointments, processing payments, and updating customer records.
+
+These Intelligent Virtual Assistants are also useful in generating marketing leads and collecting data about potential customers. By automating interactions with customers, AI-powered chatbots free up an agents’ time to do other, more complex tasks and focus on offering better customer service.
+
+
+
+
+A company’s brand identity and reputation are tied closely with how effectively their chatbot facilitates interactions. Customer satisfaction differentiates a company from its competitors and short hold times combined with intelligent AI-powered chatbots allow for quick and efficient self service resolutions.
+
+These intelligent virtual assistants offer better customer experiences that reduce customer frustration, create better satisfaction, and ultimately increase customer loyalty.
+
+In fact, customer self-service and low hold-times are so important that:
+
+67% of customers prefer self-service to speaking to a support agent and find speaking to a human to be inconvenient, according to Zendesk.
+15% of people waited on hold for more than 15 minutes during their most recent customer service experience.
+Callers who wait longer than expected use more of a contact center agent’s time when they reach their turn.
+Forrester found that 53% of customers are likely to abandon an online purchase if they can't find a quick answer to their question.
+
+
+
+Setting up an AI-powered chatbot can be done quickly if you use a reputable solution such as the Kore.ai XO Platform. With a well-designed low code/no-code platform, anyone can build an intelligent chatbot effectively - no developer or coding skills needed.
+
+Typically, the setup process involves creating a bot design, setting up the conversation flows with a series of questions and potential user answers, and ensuring the bot understands the customer's intent. With the addition of Large Language Models (LLMs) with the Kore.ai XO Platform, you can set up a basic chatbot within hours or days rather than months. Setup time may be longer if the bot needs to integrate with other systems or if it requires more advanced features.
+
+
+
+Implementing AI-powered chatbot support for your company is affordable and scalable depending on your needs. A DIY approach on a reputable platform like the Kore.ai XO Platform allows companies to get started on a simple usage based pricing model at a per conversation level. With Pre-built industry specific solutions that are ready to go right out of the box, you can contact us at info@kore.ai and our enterprise team will help figure out the best option for you. See our pricing page
+
+
+#9. Should I get help with setting up my new chatbot?
+It depends on your needs. If you have a team of people trained in developing AI and who understand machine learning, they may be able to provide a better-branded experience for your chatbot. However, developing a chatbot in-house may take longer and may not be the most efficient use of employee resources. On the other hand, hiring a chatbot developer can provide faster implementation, but may be more expensive.
+
+For the best of both worlds, consider choosing a chatbot solution like the Kore.ai XO Platform with ready-made, pre-built solutions that your team can customize quickly. This approach can provide a cost-effective and efficient way to set up a chatbot while still maintaining a customized experience. More complex features like integrations or multiple languages can be implemented by the Kore.ai Professional services team.
+
+
+#10. How do AI-powered chatbots support customers and help contact centers?
+AI-powered chatbot support for customer service plays a vital role in streamlining the operations of a contact center. By handling routine tasks such as answering frequently asked questions (FAQs) and providing self-service automation, chatbots can free up live agents to handle more complex customer issues. This leads to faster response times, shorter wait times, and more personalized service for customers.
+
+AI-powered chatbots can also provide real-time data and analytics for supervisors and managers, enabling them to monitor and improve key metrics such as first call resolution and customer satisfaction.
+
+A Gartner report finds that by 2027 a quarter of all companies will use chatbots as the primary customer support channel.
+
+
+#11. How and where is an AI-powered chatbot typically hosted?
+It depends on the chatbot provider, but many offer cloud-based, on-premise or hybrid deployment options. This could be a key consideration in deciding which provider to work with depending on the business needs.
+
+
+#12. What are large language models and generative AI?
+Large Language Models (LLMs) are machine learning models trained on massive data sets, typically billions of examples of human language, that can understand and generate language.
+
+Generative AI builds on that and learns to take actions based on training with past data. Generative AI creates brand new content such as text or an image based on that training. ChatGPT from OpenAI is an example of Generative AI.
+
+The whole concept of LLMs is based on the ability for these models to understand accurately what a person is intending to say. So the Natural Language Processing (NLP) part of it is highly improved with the amount of training data that has been used to build these models, as well as the ability to generate the appropriate answers to questions.
+
+
+#13. What are the benefits of large language models (LLMs)?
+The large dataset backing up a Large Language Model (LLM) allows for deep learning and a vast library of information to base computations, analysis, and forward-thinking on. A benefit of a LLM is that it is already pre trained to understand "general" human language - so you can create bots faster that are more robust. For instance, LLMs can not only translate languages, but they can understand and translate multiple languages at once. This is called Multilingual Machine Translation (MMT).  Intelligent virtual assistants (IVA) from Kore.ai understand and reply in over 100 languages.
+
+
+#14. How can I improve my AI-powered chatbot’s performance?
+You can improve your chatbots performance by building new use cases (intelligence) and by retraining the current model to have a more robust understanding of any way a human could ask a specific question. You can do this leveraging the data that is collected from users interacting with the virtual assistant. Machine learning is another tool that makes your chatbots smarter over time to handle variations on customer phrasing and varied use cases.
+
+
+#15. How to test AI chatbots?
+Testing really comes down to
+1. Is the right intent identified
+2. Are the right entities identified
+3. Does the right action take place once the intent and entities are identified
+
+Check out our documentation for detailed step-by-step instructions.
+
+
+
+#16. What is zero shot learning in machine learning?
+Zero-Shot machine learning teaches a chat bot to understand what it has not encountered before in training. Large data sets are used. Zero-shot learning can be used in real-world applications such as helping with disease diagnosis or self-driving cars.
+
+The Zero Shot Model does a great job of identifying an intent, but it is not able to use disambiguation or understand the exact context of what a user is potentially saying. So this is one of the limitations that’s remedied by the Few Shot Model.
+
+
+#17. What are the benefits of AI-powered chatbots?
+The benefits of AI-powered chatbots for enterprises are numerous. By automating routine tasks like Frequently Asked Questions (FAQ’s), collecting feedback, or having to qualify customer leads, the bots can save contact center agents hours to focus on more complex, ROI driving tasks and reduce the workload on marketing, sales, and support agents. Plus, intelligent virtual assistants can understand complex conversations and tasks. This decreases business costs and improves customer experience to create higher customer lifetime value.
+
+See how your company can benefit from AI-powered chatbots.
+
+
+#18. What are some common problems with chatbots?
+Chatbots have some common problems, including:
+
+The chatbot doesn't understand what the user is saying
+The chatbot doesn't understand context
+The chatbot breaks and user needs to restart flow
+Chatbot responses are bad
+The chatbot cannot or does not execute action it's supposed to
+Rigorous testing is needed to avert chatbot problems. Does the bot understand what the customer is asking? Are the answers coming from the bot accurate? Check from the user’s point-of-view how easy it is to navigate through the chatbot conversation. These questions are only a few of the ways to ensure that a chatbot is functioning properly.
+
+
+#19. What determines how capable a chatbot is?
+Kore.ai intelligent virtual assistants (IVAs) are specialized by industry and out-of-the-box are trained on hundreds of use cases specific to your business vertical. They can be trained using the control panel for FAQs, new utterances, customer questions and use cases and also learn from interacting with clients.
+
+IVAs rely on a backend system integration to combine your virtual assistant and any company system that is storing the data that it needs access to in order to answer questions or fulfill requests from your customers.
+
+Intelligent virtual assistants from Kore.ai have pre-built back-end integrations right out of the box. It is just a couple of clicks of a button in order to get everything set up. Test how easy it is to navigate through the chatbot conversation. These questions are only a few of the ways to ensure that a chatbot is functioning properly.
+
+
+#20. Is chatbot customer service better than simple website, Twitter and telephone support?
+64% of customers say chatbot customer service vs. telephone support is to their advantage because service is available to them 24/7. Customers want the best service and they want it now.
+
+Installed within a company’s website, mobile app, or on social media pages, chatbots can take orders, make sales, process personal information for lead generation, and show customers information.
+Chatbot customer service is a self-service tool that streamlines a customers’ online experience, and limits the need for a live agent, making a call center more efficient and cost-effective.
